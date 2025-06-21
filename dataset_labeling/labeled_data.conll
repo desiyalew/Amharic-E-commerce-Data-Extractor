@@ -1,0 +1,189 @@
+ወደ O
+ቤተሰብ B-LOC
+ጥቅማ	O
+የሚሆን O
+አዲስ	O
+መሳሪያ B-PRODUCT
+፣	O
+ዋጋ	B-PRICE
+1000 I-PRICE
+ብር	I-PRICE
+፣	O
+በ	O
+መገናኛ O
+ማድረግ O
+ይችላሉ O
+፡፡	O
+
+ሀይሎው B-PRODUCT
+ዋጋ	B-PRICE
+500	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+በ	O
+ቦሌ	B-LOC
+ከምርጫ O
+መኪና	B-PRODUCT
+ዉጤት	O
+እኔ	O
+ገዛሁ	O
+፡፡	O
+
+ወደ	O
+አዲስ	 B-LOC
+አበባ	B-LOC
+መኪና	B-PRODUCT
+ዋጋ	B-PRICE
+10000 I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+የቤት	O
+መፍታ	B-PRODUCT
+ዋጋ	B-PRICE
+200	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+የሚሞላ O
+ስቶቭ	B-PRODUCT
+ዋጋ	B-PRICE
+800	I-PRICE
+ብር	I-PRICE
+።	O
+
+በ	O
+ጎጃም	B-LOC
+ከሚገኘው	O
+የቤት	O
+መፍታ	B-PRODUCT
+ዉጤት	O
+በጣም	O
+ጥሩ	O
+ነው	O
+።	O
+
+ወደ	O
+መገናኛ	B-PRODUCT
+ዋጋ	B-PRICE
+300	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+የቤት	O
+ዘይት	B-PRODUCT
+ዋጋ	B-PRICE
+200	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+የቤት	O
+መፍታ	B-PRODUCT
+በ	O
+አዲስ	B-LOC
+አበባ	I-LOC
+ዋጋ	B-PRICE
+250	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+የሚሞላ O
+ስቶቭ	B-PRODUCT
+በ	O
+ቦሌ	B-LOC
+ዋጋ	B-PRICE
+750	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+ሀይል	O
+ምሽክ	O
+ዋጋ	B-PRICE
+150	I-PRICE
+ብር	I-PRICE
+።	O
+
+የቤት	O
+መፍታ	B-PRODUCT
+በ	O
+መገናኛ	O
+ዋጋ	B-PRICE
+250	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+ወደ	O
+ቦሌ	B-LOC
+ከሚገኘው	O
+የቤት	O
+መፍታ	B-PRODUCT
+ዉጤት	O
+በጣም	O
+ጥሩ	O
+ነው	O
+።	O
+
+የሚሞላ	O
+ስቶቭ	B-PRODUCT
+በ	O
+አዲስ	B-LOC
+አበባ	I-LOC
+ዋጋ	B-PRICE
+800	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+ሀይሎው	B-PRODUCT
+በ	O
+ቦሌ	B-LOC
+ዋጋ	B-PRICE
+900	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+የቤት	O
+ዘይት	B-PRODUCT
+በ	O
+አዲስ	B-LOC
+አበባ	I-LOC
+ዋጋ	B-PRICE
+300	I-PRICE
+ብር	I-PRICE
+።	O
+
+የቤት	O
+መፍታ	B-PRODUCT
+በ	O
+መገናኛ	O
+ዋጋ	B-PRICE
+200	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
+
+ሀይል	O
+ምሽክ	O
+በ	O
+ቦሌ	B-LOC
+ዋጋ	B-PRICE
+150	I-PRICE
+ብር	I-PRICE
+።	O
+
+ሀይሎው	B-PRODUCT
+ዋጋ	B-PRICE
+1000	I-PRICE
+ብር	I-PRICE
+ነው	O
+።	O
